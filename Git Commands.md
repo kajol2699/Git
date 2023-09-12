@@ -160,8 +160,7 @@ show any object in Git in human-readable format
     git stash
 
 ### Save modified and staged changes
-    git stash lis
-abc
+    git stash list
 ### list stack-order of stashed file changes
     git stash pop
 
